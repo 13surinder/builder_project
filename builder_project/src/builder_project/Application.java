@@ -13,7 +13,7 @@ public class Application {
 		.setId(101404)
 		.build();
 		
-		System.out.println("User details --- "+user);
+		System.out.println("User details ---- "+user);
 	}
 
 }
